@@ -6,7 +6,7 @@ _Authors : Marian Zlateva and Marzia Binta Nizam_
 
 
 # Overview
-This study focuses on enhancing the TransUNet model for medical image segmentation by improving its generalization capabilities. Initially, the baseline TransUNet model achieved a Mean Dice score of 0.769 and a median Hausdorff Distance of 32.87. By incorporating Channel Attention, Dual Attention mechanisms, and CutMix data augmentation, significant improvements were made, culminating in a Mean Dice score of # 0.823 and a reduced median Hausdorff Distance of # 19.74. These strategic modifications have enhanced the model's ability to accurately segment complex anatomical structures, advancing the application of medical imaging.
+This study focuses on enhancing the TransUNet model for medical image segmentation by improving its generalization capabilities. Initially, the baseline TransUNet model achieved a Mean Dice score of 0.769 and a median Hausdorff Distance of 32.87. By incorporating Channel Attention, Dual Attention mechanisms, and CutMix data augmentation, significant improvements were made, culminating in a Mean Dice score of **0.823** and a reduced median Hausdorff Distance of **19.74**. These strategic modifications have enhanced the model's ability to accurately segment complex anatomical structures, advancing the application of medical imaging.
 
 ## Results Summary
 
@@ -19,7 +19,6 @@ The following table summarizes the performance improvements across various organ
 
 *Note: All values are rounded to three decimal places for clarity.*
 
-## Visualizations
 
 Below are the segmentation visualizations comparing the baseline and enhanced models:
 
