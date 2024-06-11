@@ -4,6 +4,23 @@ This repository is part of a final project for the "Deep Learning for Advanced C
 
 _Authors : Marian Zlateva and Marzia Binta Nizam_
 
+
+# Overview
+This study focuses on enhancing the TransUNet model for medical image segmentation by improving its generalization capabilities. Initially, the baseline TransUNet model achieved a Mean Dice score of 0.769 and a median Hausdorff Distance of 32.87. By incorporating Channel Attention, Dual Attention mechanisms, and CutMix data augmentation, significant improvements were made, culminating in a Mean Dice score of # 0.823 and a reduced median Hausdorff Distance of # 19.74. These strategic modifications have enhanced the model's ability to accurately segment complex anatomical structures, advancing the application of medical imaging.
+
+## Results Summary
+
+The following table summarizes the performance improvements across various organs:
+
+| Model                          | Average Dice | Median HD95 | Aorta  | Gallbladder | Kidney (L) | Kidney (R) | Liver  | Pancreas | Spleen | Stomach |
+|--------------------------------|--------------|-------------|--------|-------------|------------|------------|--------|----------|--------|---------|
+| TransUNet  (Baseline)           | 0.769        | 32.87       | 0.868  | 0.596       | 0.814      | 0.740      | 0.945  | 0.542    | 0.873  | 0.778   |
+| TransUNet  (ours)               | 0.823        | 19.74       | 0.882  | 0.631       | 0.860      | 0.831      | 0.946  | 0.693    | 0.907  | 0.833   |
+
+*Note: All values are rounded to three decimal places for clarity.*
+
+
+
 # Environment
 
 Please prepare an environment with python=3.7, and then use the command (following the original TransUnet repo)
