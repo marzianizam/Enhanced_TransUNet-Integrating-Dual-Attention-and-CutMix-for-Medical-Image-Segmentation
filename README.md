@@ -35,6 +35,7 @@ python test.py --dataset Synapse --vit_name R50-ViT-B_16 --is_savenii
 ```
 You can download our trained model from here to test. 
 
+# Visualization
 
 # Reference
 
@@ -47,6 +48,6 @@ You can download our trained model from here to test.
 
 # Acknowledgement
 
-We appreciate the developers of [TransUNet](https://github.com/Beckschen/TransUNet/tree/main) and the provider of the [Synapse multi-organ segmentation](https://www.synapse.org/#!Synapse:syn3193805/wiki/217789) dataset. We are grateful to Professor [Yuyin Zhou](https://campusdirectory.ucsc.edu/cd_detail?uid=yzhou284) for her invaluable guidance and insightful suggestions throughout the duration of this project
+We appreciate the developers of [TransUNet](https://github.com/Beckschen/TransUNet/tree/main) and the provider of the [Synapse multi-organ segmentation](https://www.synapse.org/#!Synapse:syn3193805/wiki/217789) dataset. We are grateful to Professor [Yuyin Zhou](https://campusdirectory.ucsc.edu/cd_detail?uid=yzhou284) for her invaluable guidance and insightful suggestions throughout the duration of this project. :smiley: :smiley:
 
 
