@@ -37,6 +37,8 @@ You can download our trained model from here to test.
 
 # Visualization
 
+Please refer to thie notebook for visualizing the predictions.
+
 # Reference
 
 * [TransUNet](https://github.com/Beckschen/TransUNet/tree/main)
