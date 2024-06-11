@@ -19,9 +19,16 @@ The following table summarizes the performance improvements across various organ
 
 *Note: All values are rounded to three decimal places for clarity.*
 
+## Visualizations
+
+Below are the segmentation visualizations comparing the baseline and enhanced models:
+
+![Segmentation Comparison](/path/to/your/image.png)
+
+*Figure 1: Visual comparison of segmentation performance between baseline TransUNet and TransUNet with Dual Attention and CutMix.*
 
 
-# Environment
+# Environment Setup
 
 Please prepare an environment with python=3.7, and then use the command (following the original TransUnet repo)
 
