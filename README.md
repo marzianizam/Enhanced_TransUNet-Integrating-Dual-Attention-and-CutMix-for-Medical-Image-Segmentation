@@ -12,7 +12,7 @@ You can view our environment specification here.
 
 #Data
 
-The experiments were conducted on the Synapse multi-organ segmentation dataset. Please refer to the ["original repository"](https://github.com/Beckschen/TransUNet/blob/main/datasets/README.md) for the data preparation. 
+The experiments were conducted on the Synapse multi-organ segmentation dataset. Please refer to the [original repository](https://github.com/Beckschen/TransUNet/blob/main/datasets/README.md) for the data preparation. 
  
  
 
