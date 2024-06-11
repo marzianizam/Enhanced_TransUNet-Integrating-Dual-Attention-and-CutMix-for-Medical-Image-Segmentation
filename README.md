@@ -17,10 +17,23 @@ You can view our environment specification here.
 # Data
 
 The experiments were conducted on the Synapse multi-organ segmentation dataset. Please refer to the [original repository](https://github.com/Beckschen/TransUNet/blob/main/datasets/README.md) for the data preparation. 
- 
- 
 
+ # Train
 
+ Run the train script on synapse dataset. We used batch size 8 due to our limited GPU access, but the original code supports multiple GPUs as well.
+
+ ```bash
+CUDA_VISIBLE_DEVICES=0 python train.py --dataset Synapse --vit_name R50-ViT-B_16
+```
+
+# Test
+
+Run the test script on synapse dataset. It supports testing for both 2D images and 3D volumes. 
+
+ ```bash
+python test.py --dataset Synapse --vit_name R50-ViT-B_16 --is_savenii
+```
+You can download our trained model from here to test. 
 
 
 
