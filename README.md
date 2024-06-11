@@ -42,8 +42,11 @@ You can download our trained model from here to test.
 * [Google ViT](https://github.com/google-research/vision_transformer)
 * [ViT-pytorch](https://github.com/jeonsworld/ViT-pytorch)
 * [segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch)
+* [DA-TransUnet](https://github.com/SUN-1024/DA-TransUnet/tree/main)
 
 
 # Acknowledgement
+
+We appreciate the developers of [TransUNet](https://github.com/Beckschen/TransUNet/tree/main) and the provider of the [Synapse multi-organ segmentation](https://www.synapse.org/#!Synapse:syn3193805/wiki/217789) dataset. We are grateful to Professor [Yuyin Zhou](https://campusdirectory.ucsc.edu/cd_detail?uid=yzhou284) for her invaluable guidance and insightful suggestions throughout the duration of this project
 
 
