@@ -2,7 +2,7 @@
 
 This repository is part of a final project for the "Deep Learning for Advanced Computer Vision 224C" course at the University of California, Santa Cruz. It reproduces and enhances the TransUNet model, as detailed in the paper ["TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation"](https://arxiv.org/pdf/2102.04306). The project's initial phase involved training a baseline TransUNet model, followed by targeted modifications to improve its segmentation performance.
 
-Authors : _Marian Zlateva and Marzia Binta Nizam_
+_Authors : Marian Zlateva and Marzia Binta Nizam_
  
 
 
