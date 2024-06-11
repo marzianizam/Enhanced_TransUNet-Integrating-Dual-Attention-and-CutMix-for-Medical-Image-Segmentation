@@ -6,7 +6,10 @@ _Authors : Marian Zlateva and Marzia Binta Nizam_
 
 # Environment
 
-Please prepare an environment with python=3.7, and then use the command "pip install -r requirements.txt" for the dependencies. (following the original TransUnet repo)
+Please prepare an environment with python=3.7, and then use the command (following the original TransUnet repo)
+
+```bash
+pip install -r requirements.txt
 
 You can view our environment specification here.
 
