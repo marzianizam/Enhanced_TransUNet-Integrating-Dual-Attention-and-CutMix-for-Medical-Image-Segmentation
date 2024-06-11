@@ -60,7 +60,7 @@ You can download our trained model from here to test.
 
 # Visualization
 
-Please refer to thie notebook for visualizing the predictions.
+Please refer to this notebook for visualizing the predictions.
 
 # Reference
 
