@@ -15,7 +15,7 @@ The following table summarizes the performance improvements across various organ
 | Model                          | Average Dice | Median HD95 | Aorta  | Gallbladder | Kidney (L) | Kidney (R) | Liver  | Pancreas | Spleen | Stomach |
 |--------------------------------|--------------|-------------|--------|-------------|------------|------------|--------|----------|--------|---------|
 | TransUNet  (Baseline)           | 0.769        | 32.87       | 0.868  | 0.596       | 0.814      | 0.740      | 0.945  | 0.542    | 0.873  | 0.778   |
-| TransUNet  (ours)               | 0.823        | 19.74       | 0.882  | 0.631       | 0.860      | 0.831      | 0.946  | 0.693    | 0.907  | 0.833   |
+| TransUNet  (ours)               | **0.823**        | **19.74**       | **0.882**  | **0.631**       | **0.860**      | **0.831**      | **0.946**  | **0.693**   | **0.907**  | **0.833**   |
 
 *Note: All values are rounded to three decimal places for clarity.*
 
