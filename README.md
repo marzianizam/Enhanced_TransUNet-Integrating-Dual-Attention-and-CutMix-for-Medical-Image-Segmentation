@@ -4,13 +4,13 @@ This repository is part of a final project for the "Deep Learning for Advanced C
 
 _Authors : Marian Zlateva and Marzia Binta Nizam_
 
-#Environment
+# Environment
 
 Please prepare an environment with python=3.7, and then use the command "pip install -r requirements.txt" for the dependencies. (following the original TransUnet repo)
 
 You can view our environment specification here.
 
-#Data
+# Data
 
 The experiments were conducted on the Synapse multi-organ segmentation dataset. Please refer to the [original repository](https://github.com/Beckschen/TransUNet/blob/main/datasets/README.md) for the data preparation. 
  
