@@ -37,6 +37,16 @@ pip install -r requirements.txt
 
 You can view our environment specification [here](https://github.com/marzianizam/Enhanced_TransUNet-Integrating-Dual-Attention-and-CutMix-for-Medical-Image-Segmentation/blob/main/our_environment_spec.txt).
 
+# Download Google pre-trained ViT models
+
+Download the Google pre-trained ViT models following the original repository's instruction.
+
+```bash
+wget https://storage.googleapis.com/vit_models/imagenet21k/{MODEL_NAME}.npz &&
+mkdir ./model/vit_checkpoint/imagenet21k &&
+mv {MODEL_NAME}.npz ./model/vit_checkpoint/imagenet21k/{MODEL_NAME}.npz
+```bash
+
 # Data
 
 The experiments were conducted on the Synapse multi-organ segmentation dataset. Please refer to the [original repository](https://github.com/Beckschen/TransUNet/blob/main/datasets/README.md) for the data preparation. 
