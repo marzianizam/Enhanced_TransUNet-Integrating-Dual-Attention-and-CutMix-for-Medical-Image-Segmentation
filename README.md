@@ -22,7 +22,7 @@ The following table summarizes the performance improvements across various organ
 
 Below are the segmentation visualizations comparing the baseline and enhanced models:
 
-![Segmentation Comparison](/path/to/your/image.png)
+![Segmentation Comparison](https://github.com/marzianizam/Enhanced_TransUNet-Integrating-Dual-Attention-and-CutMix-for-Medical-Image-Segmentation/blob/main/Result_Viz.png)
 
 *Figure 1: Visual comparison of segmentation performance between baseline TransUNet and TransUNet with Dual Attention and CutMix.*
 
