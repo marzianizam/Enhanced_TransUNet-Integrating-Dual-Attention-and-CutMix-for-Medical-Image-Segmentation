@@ -60,7 +60,7 @@ You can download our trained model from here to test.
 
 # Visualization
 
-Please refer to this notebook for visualizing the predictions.
+Please refer to this [notebook](https://github.com/marzianizam/Enhanced_TransUNet-Integrating-Dual-Attention-and-CutMix-for-Medical-Image-Segmentation/blob/main/visualization.ipynb) for visualizing the predictions.
 
 # Reference
 
