@@ -45,7 +45,7 @@ Download the Google pre-trained ViT models following the original repository's i
 wget https://storage.googleapis.com/vit_models/imagenet21k/{MODEL_NAME}.npz &&
 mkdir ./model/vit_checkpoint/imagenet21k &&
 mv {MODEL_NAME}.npz ./model/vit_checkpoint/imagenet21k/{MODEL_NAME}.npz
-```bash
+```
 
 # Data
 
@@ -66,7 +66,7 @@ Run the test script on synapse dataset. It supports testing for both 2D images a
  ```bash
 python test.py --dataset Synapse --vit_name R50-ViT-B_16 --is_savenii
 ```
-You can download our trained model from here to test. 
+You can download our trained model from [here](https://drive.google.com/file/d/1WJNikz0zN0X5WFQROPvMMC3wsk5wxXZy/view?usp=sharing) to test. 
 
 # Visualization
 
