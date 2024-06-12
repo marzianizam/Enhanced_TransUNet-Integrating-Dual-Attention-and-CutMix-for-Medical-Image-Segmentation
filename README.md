@@ -35,7 +35,7 @@ Please prepare an environment with python=3.7, and then use the command (followi
 pip install -r requirements.txt
 ```
 
-You can view our environment specification here.
+You can view our environment specification [here](https://github.com/marzianizam/Enhanced_TransUNet-Integrating-Dual-Attention-and-CutMix-for-Medical-Image-Segmentation/blob/main/our_environment_spec.txt).
 
 # Data
 
