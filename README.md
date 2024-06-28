@@ -67,7 +67,7 @@ Run the test script on synapse dataset. It supports testing for both 2D images a
  ```bash
 python test.py --dataset Synapse --vit_name R50-ViT-B_16 --is_savenii
 ```
-You can download our trained model from [here](https://drive.google.com/file/d/1WJNikz0zN0X5WFQROPvMMC3wsk5wxXZy/view?usp=sharing) to test. 
+You can download our trained model from [here](https://drive.google.com/file/d/15dHKTUUtyOZbAIW83FfIuDbIIEhTWxnw/view?usp=sharing) to test. 
 
 # Visualization
 
